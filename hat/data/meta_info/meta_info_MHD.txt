@@ -1,0 +1,5 @@
+denoise_2dslices_17941.mhd (1100,1536,1)
+denoise_2dslices_17942.mhd (1100,1536,1)
+denoise_2dslices_17943.mhd (1100,1536,1)
+denoise_2dslices_17944.mhd (1100,1536,1)
+denoise_2dslices_17945.mhd (1100,1536,1)
